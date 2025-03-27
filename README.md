@@ -1,4 +1,4 @@
-# -Network-Dynamics-and-Optimization-Project-Report
+# Network-Dynamics-and-Optimization-Project-Report
 🔗 Network Dynamics and Optimization – Project Report
 This repository presents a comprehensive study of network flow optimization and traffic assignment problems, implemented using Python, NetworkX, and convex optimization tools. The project explores different strategies to improve flow efficiency in directed networks and allocation systems.
 

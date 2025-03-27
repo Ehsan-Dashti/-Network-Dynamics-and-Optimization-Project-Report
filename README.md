@@ -48,6 +48,6 @@ Python 3, NetworkX, Matplotlib
 NumPy, CVXPY (for constrained optimization)
 
 📁 Files
-HW1.ipynb: Source code with detailed implementations and plots.
+main.ipynb: Source code with detailed implementations and plots.
 
-network_HW1_final.pdf: Technical report documenting methodology, results, and visualizations.
+network_HW1_report.pdf: Technical report documenting methodology, results, and visualizations.
